@@ -1,0 +1,2 @@
+httpservice通过post和get得到你想要的东西
+webservice就是使用soap协议得到你想要的东西，相比httpservice能处理些更加复杂的数据类型
